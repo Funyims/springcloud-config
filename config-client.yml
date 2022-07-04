@@ -4,7 +4,7 @@ spring:
 
 ---
 
-sever:
+server:
   port: 8201
 
 spring:
@@ -21,7 +21,7 @@ eureka:
 
 
 ---
-sever:
+server:
   port: 8202
 
 spring:
