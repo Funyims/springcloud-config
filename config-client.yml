@@ -21,6 +21,7 @@ eureka:
 
 
 ---
+
 server:
   port: 8202
 
